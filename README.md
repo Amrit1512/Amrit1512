@@ -1,15 +1,36 @@
-<h1 align="center">Hi 👋, I'm Amrit</h1>
-<p align="left">I love turning ideas into reality on the web. I bring a combination of technical expertise, organization, and clear communication to my work. With a focus on precision and efficiency, I build intuitive and user-friendly websites. I thrive on designing interactive interfaces and ensuring that every project is both visually stunning and functionally robust across all devices.</p>
+<h2 align="center">Hi there 👋, I'm Amrit</h2>
 
-- 🌱 I’m currently learning **React**
+## ✨ About Me :
+I love turning ideas into reality on the web. I bring a combination of technical expertise, organization, and clear communication to my work. With a focus on precision and efficiency, I build intuitive and user-friendly websites. I thrive on designing interactive interfaces and ensuring that every project is both visually stunning and functionally robust across all devices.
+<br>
+<br>
 
-- 💬 Ask me about **HTML, CSS, Javascript, React JS**
+<img align="right" alt="coding & coffee" width="320" height="200" src="https://cdn.dribbble.com/userupload/23990277/file/original-3ebdd247ca5322b086cae2862151e584.gif">
+
+- 🌱 I’m currently learning **Node JS**
+  
+-  💬 Ask me about **HTML, CSS, Javascript, React JS**
 
 - 📫 How to reach me **amritraj15122000@gmail.com**
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
+- ⚡ Fun fact Frontend developers are like web wizards—making pixels dance and buttons sing!
+
+
+
+## 💻 Tech Stack :
+<p align="left"> 
+
+
+![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)  ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 </p>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> </p>
+
+
+
+<br>
+<br>
+<p align="center">Thank You for visiting my Profile 😊</p>
+<!-- <img align="center" width="100%" height="20px" alt="coding & coffee"  src="https://cdn.dribbble.com/userupload/42783742/file/still-949bda03eff40645106b8c3384fa2493.png>
+ -->
