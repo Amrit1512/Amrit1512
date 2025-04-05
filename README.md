@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amrit</h1>
-<h3 align="left">I love turning ideas into reality on the web. I bring a combination of technical expertise, organization, and clear communication to my work. With a focus on precision and efficiency, I build intuitive and user-friendly websites. I thrive on designing interactive interfaces and ensuring that every project is both visually stunning and functionally robust across all devices.</h3>
+<p align="left">I love turning ideas into reality on the web. I bring a combination of technical expertise, organization, and clear communication to my work. With a focus on precision and efficiency, I build intuitive and user-friendly websites. I thrive on designing interactive interfaces and ensuring that every project is both visually stunning and functionally robust across all devices.</p>
 
 - 🌱 I’m currently learning **React**
 
